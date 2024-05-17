@@ -1,2 +1,1 @@
-# Introdução �rogramaçãcom Javascript
-
+# Introdução à programação com Javascript
