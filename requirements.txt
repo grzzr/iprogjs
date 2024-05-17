@@ -1,0 +1,13 @@
+# Core modules (mandatory)
+jupyterlite-core==0.3.0
+jupyterlab~=4.1.6
+notebook~=7.1.2
+
+# JavaScript kernel (optional)
+jupyterlite-javascript-kernel==0.3.0
+
+# P5 kernel (optional)
+jupyterlite-p5-kernel==0.1.0
+
+# JupyterLab: dark theme
+jupyterlab-night
