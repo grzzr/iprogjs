@@ -1,1 +1,4 @@
-# Introdução à programação com Javascript
+# trilhajs
+
+Material do curso de introdução à programação, trilha JavaScript
+
