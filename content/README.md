@@ -6,7 +6,7 @@
 
 1. [Primeiro programa](notebooks/01-primeiro-programa.ipynb)
 1. [Strings e números](notebooks/03-strings-e-numeros.ipynb)
-1. [Como interpolar valores em String](04-interpolar-valores-em-strings.ipynb)
+1. [Como interpolar valores em String](notebooks/04-interpolar-valores-em-strings.ipynb)
 1. [Variáveis](notebooks/05-variaveis.ipynb)
 1. [Operadores de comparação](notebooks/06-booleanos-e-comparacao.ipynb)
 1. [Operações lógicas](notebooks/07-operacoes-logicas.ipynb)
