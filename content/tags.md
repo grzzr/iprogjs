@@ -1,0 +1,25 @@
+# Tags HTML
+
+- p
+- h1, h2, h3, h4, h5, h6
+- strong, em, strike, sub, sup
+- header
+- main
+- footer
+- nav 
+- ul, li
+- ol, li
+- a
+- article
+- section
+- aside
+- figure
+- img
+- figcaption
+- pre
+- code
+- kbd
+- blockquote
+- cite
+- table, tr, td, th
+- depois formulários
