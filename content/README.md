@@ -2,6 +2,10 @@
 
 ## Introdução à programação com Javascript
 
+## Livros de introdução 
+- [Pense em Python](https://penseallen.github.io/PensePython2e/)
+- [JavaScript Eloquente](https://github.com/braziljs/eloquente-javascript)
+  
 ### Notebooks
 
 1. [Primeiro programa](notebooks/01-primeiro-programa.ipynb)
